@@ -8,7 +8,7 @@ I'm passionate about **Data Science** and **Data Engineering** with a strong des
 - 🏙️ **Housing in Buenos Aires**  
 - 🌿 **Air Quality in Nairobi**  
 - 🌍 **Earthquake Damage in Nepal**  
-- 📉 **Currently working on: Bankruptcy in Poland**  
+ 
 
 ## 🛠️ Skills  
 - **Programming:** Python  
