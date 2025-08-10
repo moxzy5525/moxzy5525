@@ -38,7 +38,4 @@ Your feedback and insights are always welcome!
 📧 Email: [kkmorrison427@gmail.com](mailto:kkmorrison427@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/kingsley-morrison](https://www.linkedin.com/in/kingsley-morrison)  
 
----
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moxzy5525&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moxzy5525&layout=compact&theme=radical)
